@@ -38,4 +38,4 @@ The Photo to Anime Generator utilizes advanced image processing techniques to cr
 
 ## Author
 
-[Your Name]
+[Himanshu sharma]
